@@ -26,7 +26,7 @@
 ### 🚧 SITE SEMPRE EM CONSTRUÇÃO 🚧
 *(mas pelo menos já tem contador de visitas)*
 
-<img src="https://hits.sh/github.com/SEU_USUARIO.svg?style=for-the-badge&label=VISITANTE+Nº&color=ff00ff&labelColor=000080" alt="contador">
+<img src="https://hits.sh/github.com/thighitoProjectZumbi.svg?style=for-the-badge&label=VISITANTE+Nº&color=ff00ff&labelColor=000080" alt="contador">
 
 🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧
 
