@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- FIGURINHA TOPO: banner/GIF grande (ex: fogo, estrelas, "welcome") -->
-<img src="" width="120">
+<img src="assets/tv.gif" width="120">
 
 <a href="https://github.com/thighitoProjectZumbi">
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=26&duration=3500&pause=800&color=FF00FF&center=true&vCenter=true&width=640&height=50&lines=★彡+BEM-VINDO+À+MINHA+HOMEPAGE+彡★;Você+é+o+visitante+mais+legal+do+dia!;Site+100%25+feito+à+mão,+sem+IA+genérica;Assine+meu+livro+de+visitas+lá+embaixo!" alt="bem-vindo">
