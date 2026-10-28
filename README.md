@@ -1,24 +1,27 @@
 <!--
-  ╔════════════════════════════════════════════════════════════╗
-  ║  COMO USAR (apaga este comentário depois, ele não aparece) ║
-  ╠════════════════════════════════════════════════════════════╣
-  ║  1. Troque SEU_USUARIO pelo seu usuário do GitHub          ║
-  ║  2. Procure por "FIGURINHA" e troque o texto               ║
-  ║     [ 🖼️ figurinha aqui ] por:                             ║
-  ║     <img src="LINK_DO_GIF" width="120">                    ║
-  ║  3. Edite nome, skills, hobbies, músicas, links            ║
-  ║  4. Crie um repo com o MESMO nome do seu usuário           ║
-  ║     e cole este arquivo como README.md                     ║
-  ╚════════════════════════════════════════════════════════════╝
+  IMAGENS: este README só puxa arquivos da pasta "assets" (na raiz do repo).
+  Coloque lá estes arquivos (pode ser .gif, só precisa ter o mesmo nome):
+
+    assets/tv.gif            -> topo
+    assets/fig1.gif ... fig5.gif -> fileira de figurinhas do topo
+    assets/avatar.gif        -> sua foto/avatar (Sobre mim)
+    assets/computador.gif    -> seção Skills
+    assets/hobby.gif         -> seção Hobbies
+    assets/musica.gif        -> seção Discman
+    assets/webring.gif       -> seção Links Amigos
+    assets/88x31-1.gif ... 88x31-4.gif -> botões 88x31
+    assets/rodape.gif        -> rodapé
+
+  Se algum for .png/.jpg, troque a extensão aqui no código.
+  Pode apagar este comentário, ele não aparece no perfil.
 -->
 
 <div align="center">
 
-<!-- FIGURINHA TOPO: banner/GIF grande (ex: fogo, estrelas, "welcome") -->
-<img src="assets/tv.gif" width="120">
+<img src="assets/tv.gif" width="600">
 
 <a href="https://github.com/thighitoProjectZumbi">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=26&duration=3500&pause=800&color=FF00FF&center=true&vCenter=true&width=640&height=50&lines=★彡+BEM-VINDO+À+MINHA+HOMEPAGE+彡★;Você+é+o+visitante+mais+legal+do+dia!;Site+100%25+feito+à+mão,+sem+IA+genérica;Assine+meu+livro+de+visitas+lá+embaixo!" alt="bem-vindo">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=26&duration=3500&pause=800&color=FF00FF&center=true&vCenter=true&width=640&height=50&lines=★彡+BEM-VINDO+À+MINHA+HOMEPAGE+彡★;Você+é+o+visitante+mais+legal+do+dia!;Site+100%25+feito+à+mão,+sem+IA+genérica;Assine+meu+livro+de+visitas+lá+embaixo!>
 </a>
 
 🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧
@@ -30,9 +33,9 @@
 
 🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧⚠️🚧
 
-<!-- FIGURINHAS EM FILEIRA: troque cada uma por <img src="LINK" width="100"> -->
-| [ 🖼️ figurinha 1 ] | [ 🖼️ figurinha 2 ] | [ 🖼️ figurinha 3 ] | [ 🖼️ figurinha 4 ] | [ 🖼️ figurinha 5 ] |
+| | | | | |
 |:---:|:---:|:---:|:---:|:---:|
+| <img src="assets/fig1.gif" width="100"> | <img src="assets/fig2.gif" width="100"> | <img src="assets/fig3.gif" width="100"> | <img src="assets/fig4.gif" width="100"> | <img src="assets/fig5.gif" width="100"> |
 
 </div>
 
@@ -54,7 +57,7 @@
 <tr>
 <td align="center" width="180">
 
-[ 🖼️ **FIGURINHA**<br>sua foto/avatar<br>estilo 90s ]
+<img src="assets/avatar.gif" width="150">
 
 </td>
 <td>
@@ -64,7 +67,7 @@
 ║         F I C H A   T É C N I C A ║
 ╠═══════════════════════════════════╣
 ║ Nome ........ SEU NOME            ║
-║ Apelido ..... SEU_NICK            ║
+║ Apelido ..... thighitoProjectZumbi ║
 ║ Idade ....... XX anos             ║
 ║ Signo ....... ♈♉♊♋♌♍♎♏♐♑♒♓       ║
 ║ Mora em ..... SUA CIDADE          ║
@@ -80,7 +83,7 @@
 
 > 💬 *"Escreva aqui uma frase sua, tipo aquelas frases de Orkut que a gente colocava no perfil."*
 
-Oi, eu sou **SEU NOME**! Escreva aqui 2 ou 3 linhas sobre você, do jeito que você fala mesmo. Quanto mais cara de você, menos cara de template. Pode ter erro de digitação de propósito, é charme. :P
+Oi, eu sou o **thighitoProjectZumbi**! Escreva aqui 2 ou 3 linhas sobre você, do jeito que você fala mesmo. Quanto mais cara de você, menos cara de template. Pode ter erro de digitação de propósito, é charme. :P
 
 ---
 
@@ -116,7 +119,7 @@ Café ☕     [████████████████████] 100
 Sono 😴     [███░░░░░░░░░░░░░░░░░] 15%
 ```
 
-[ 🖼️ figurinha de computador/disquete aqui ]
+<img src="assets/computador.gif" width="100">
 
 </div>
 
@@ -139,7 +142,7 @@ Sono 😴     [███░░░░░░░░░░░░░░░░░] 15%
 </td>
 <td width="50%" align="center" valign="middle">
 
-[ 🖼️ **FIGURINHA**<br>um GIF que represente você:<br>gato dançando, pixel art,<br>Tamagotchi... ]
+<img src="assets/hobby.gif" width="150">
 
 </td>
 </tr>
@@ -172,7 +175,7 @@ Sono 😴     [███░░░░░░░░░░░░░░░░░] 15%
  └──────────────────────────────────────┘
 ```
 
-[ 🖼️ figurinha de fone/CD/fita K7 aqui ]
+<img src="assets/musica.gif" width="100">
 
 </div>
 
@@ -188,9 +191,9 @@ Sono 😴     [███░░░░░░░░░░░░░░░░░] 15%
 
 | 📁 Projeto | 📃 O que é | ⭐ Status |
 |:---|:---|:---:|
-| **[nome-do-projeto-1](https://github.com/SEU_USUARIO/nome-do-projeto-1)** | Uma frase explicando o que faz | 🟢 no ar |
-| **[nome-do-projeto-2](https://github.com/SEU_USUARIO/nome-do-projeto-2)** | Uma frase explicando o que faz | 🟡 em obras |
-| **[nome-do-projeto-3](https://github.com/SEU_USUARIO/nome-do-projeto-3)** | Uma frase explicando o que faz | 🔴 abandonado (mas com carinho) |
+| **[nome-do-projeto-1](https://github.com/thighitoProjectZumbi/nome-do-projeto-1)** | Uma frase explicando o que faz | 🟢 no ar |
+| **[nome-do-projeto-2](https://github.com/thighitoProjectZumbi/nome-do-projeto-2)** | Uma frase explicando o que faz | 🟡 em obras |
+| **[nome-do-projeto-3](https://github.com/thighitoProjectZumbi/nome-do-projeto-3)** | Uma frase explicando o que faz | 🔴 abandonado (mas com carinho) |
 
 ---
 
@@ -198,8 +201,8 @@ Sono 😴     [███░░░░░░░░░░░░░░░░░] 15%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=000080&title_color=FFFF00&text_color=00FF00&icon_color=FF00FF&ring_color=00FFFF&border_radius=0" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=000080&title_color=FFFF00&text_color=00FF00&border_radius=0" alt="langs">
+<img src="https://github-readme-stats.vercel.app/api?username=thighitoProjectZumbi&show_icons=true&hide_border=true&bg_color=000080&title_color=FFFF00&text_color=00FF00&icon_color=FF00FF&ring_color=00FFFF&border_radius=0" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thighitoProjectZumbi&layout=compact&hide_border=true&bg_color=000080&title_color=FFFF00&text_color=00FF00&border_radius=0" alt="langs">
 
 </div>
 
@@ -219,7 +222,7 @@ Sono 😴     [███░░░░░░░░░░░░░░░░░] 15%
 ╚══════════════════════════════════════════╝
 ```
 
-### 👉 [**CLIQUE AQUI PRA ASSINAR**](https://github.com/SEU_USUARIO/SEU_USUARIO/issues/new?title=Livro+de+visitas&body=Nome:%0ADe+onde+voc%C3%AA+%C3%A9:%0ARecado:) 👈
+### 👉 [**CLIQUE AQUI PRA ASSINAR**](https://github.com/thighitoProjectZumbi/thighitoProjectZumbi/issues/new?title=Livro+de+visitas&body=Nome:%0ADe+onde+voc%C3%AA+%C3%A9:%0ARecado:) 👈
 
 *(vira uma issue no meu repositório, e eu respondo!)*
 
@@ -234,10 +237,11 @@ Sono 😴     [███░░░░░░░░░░░░░░░░░] 15%
 <!-- Troque pelos perfis de amigos, sites que você curte, etc. -->
 **[⬅️ anterior](https://github.com/AMIGO_1)** ☆ **[🎲 aleatório](https://github.com/AMIGO_2)** ☆ **[próximo ➡️](https://github.com/AMIGO_3)**
 
-[ 🖼️ figurinha: botões 88x31 dos seus sites favoritos ]
+<img src="assets/webring.gif" width="100">
 
-| [ 🖼️ 88x31 ] | [ 🖼️ 88x31 ] | [ 🖼️ 88x31 ] | [ 🖼️ 88x31 ] |
+| | | | |
 |:---:|:---:|:---:|:---:|
+| <img src="assets/88x31-1.gif" width="88" height="31"> | <img src="assets/88x31-2.gif" width="88" height="31"> | <img src="assets/88x31-3.gif" width="88" height="31"> | <img src="assets/88x31-4.gif" width="88" height="31"> |
 
 </div>
 
@@ -247,13 +251,12 @@ Sono 😴     [███░░░░░░░░░░░░░░░░░] 15%
 
 ### 📬 Fale comigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/thighitoProjectZumbi)
 [![Email](https://img.shields.io/badge/E--mail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Instagram](https://img.shields.io/badge/Insta-FFFF00?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thighitoProjectZumbi)
+[![Instagram](https://img.shields.io/badge/Insta-FFFF00?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/thighitoProjectZumbi)
 
-<!-- FIGURINHA RODAPÉ: GIF de "obrigado pela visita", arco-íris, estrelinhas... -->
-[ 🖼️ figurinha de rodapé aqui ]
+<img src="assets/rodape.gif" width="100">
 
 ```
 ┌────────────────────────────────────────────────┐
@@ -261,12 +264,11 @@ Sono 😴     [███░░░░░░░░░░░░░░░░░] 15%
 │     em 800x600 com 256 cores                   │
 │                                                │
 │  📅 Última atualização: ../../....             │
-│  © 1999-2026 SEU NOME · Todos os direitos      │
-│  reservados (ou não, sei lá)                   │
+│  © 1999-2026 thighitoProjectZumbi · Todos os   │
+│  direitos reservados (ou não, sei lá)          │
 └────────────────────────────────────────────────┘
 ```
 
 **★彡 volte sempre! 彡★**
 
 </div>
-
